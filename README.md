@@ -44,7 +44,8 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Khaledassidy/Khaledassidy/output/github-contribution-grid-snake.svg" />
-  
+  ![snake gif](https://github.com/Khaledassidy/Khaledassidy/blob/output/github-contribution-grid-snake.gif)
+
   <br/><br/><br/>
 </div>
 
@@ -64,5 +65,4 @@
 <br/><br/>
 
 <hr/>
-
 <br/>
